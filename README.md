@@ -17,5 +17,5 @@ The CISO wants to understand the organization's system inventory.  A data reposi
 			ii. Page2: A definitions page explaining any formulas or acronyms
 		b. Our clients will need to be able to export this information into power point and will need to be able to filter based on Org, system and Fisma reportable systems. 
 		c. Our clients has a style sheet defined on our github page. 
-We need to see sample dax and sample power query. 
+		d. We will need to see sample DAX and sample power query and excellent visualizations. 
 
