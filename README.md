@@ -3,6 +3,7 @@ System Asset Inventory reporting
 The CISO wants to understand the organization's system inventory.  A data repository has been created at https://github.com/k2-mivs/Asset_reporting_sample . 
 
 2 sample data files one representing asset inventory and the other representing the system's list
+
 	1. The asset inventory file has an ID field that has the Org and the System ID in one field. 
 	2. We need asset reporting created to answer the following questions.
 		a. How many operational systems does our organization have by FIPS 199 level. 
