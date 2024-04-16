@@ -31,5 +31,6 @@ There are two sample data files - one representing asset inventory and the other
 	 	e. Visualizations must accurately display underlying data with no errors.
    		f. Demo must display a thorough understanding of the underlying data and tell a cohesive data story.
 
+
    
 
