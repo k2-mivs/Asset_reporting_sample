@@ -1,0 +1,235 @@
+﻿CSAM ID,Org,SystemName,Acronym,Mission Critical,FIPS 199,System Operational Status,System Type,FISMA Reportable,Security Authorization Status,Security Authorization Initial Completion Date,Security Authorization Date Completed,Privacy Threshold Analysis Date Completed,Personally Identifiable Information,Privacy Impact Assessment Status,Privacy Impact Assessment Date Completed
+1019,AFPE,Appian Cloud,SRMA,No,Moderate,Operational,System,Yes,ATO,4/7/2014,8/3/2023,11/23/2022,Yes,Required under E-Government Act,10/9/2019
+1031,AFPE,Programmable Systematic Customer Loyalty System,PSCLS,No,Moderate,Operational,System,Yes,ATO,7/27/2021,7/27/2023,6/14/2023,Yes,Required under E-Government Act,7/16/2021
+1033,AFPE,Synergistic Even-keeled Capacity Service,SECS,No,Moderate,Operational,System,Yes,ATO,7/27/2021,7/27/2023,6/14/2023,Yes,Required under E-Government Act,7/16/2021
+1034,AFPE,Configurable Uniform Firmware Workgroup,CUFW,Yes,Moderate,Modification,System,Yes,Expired,1/29/2021,1/29/2023,12/10/2022,No,Not Required under E-Government Act,
+1041,AFPE,iSite Contract Management Portal,NESEW,No,Low,Operational,System,Yes,Not Started,,,,Yes,Required under E-Government Act,
+1045,AFPE,Government Cloud - Common Controls,BNTW,No,Moderate,Operational,System,Yes,ATO,7/10/2019,7/10/2023,2/22/2023,No,No Selection,
+1078,AFPE,Ameliorated Multimedia Secured Line Asset,AMSLA,No,Moderate,Operational,System,Yes,ATO,5/26/2021,5/26/2023,,No,Not Required under E-Government Act,
+1081,AFPE,Customizable Analyzing Customer Loyalty Infrastructure,CACLI,Yes,Moderate,Operational,System,Yes,ATO,7/16/2020,7/16/2023,7/27/2023,No,Not Required under E-Government Act,
+1102,AFPE,Re-engineered Bottom-line Encoding Orchestration,RBEO,No,Moderate,Operational,System,Yes,ATO,6/17/2020,6/2/2023,10/22/2023,Yes,Not Required under E-Government Act,10/27/2021
+1140,AFPE,Future-proofed Dynamic Superstructure Network,FDSN,No,Moderate,Operational,System,Yes,ATO,1/29/2021,6/17/2023,4/13/2023,No,Not Required under E-Government Act,
+1144,AFPE,Expanded Regional Challenge Service,ERCS,No,Moderate,Operational,System,Yes,ATO,6/1/2021,6/1/2023,8/12/2023,Yes,Required under E-Government Act,
+1145,AFPE,Innovative Fresh-thinking Orchestration Asset,IFOA,No,Moderate,Operational,System,Yes,ATO,1/29/2021,1/29/2023,6/23/2023,Yes,Required under E-Government Act,
+1153,AFPE,Diverse Cohesive Initiative Pipeline,DCIP,No,Moderate,Development,System,Yes,ATO,11/26/2021,11/26/2023,10/22/2023,Yes,Not Required under E-Government Act,one
+1226,BOAP,Innovative 6thgeneration Definition Pipeline,I6DP,No,Moderate,Operational,System,Yes,ATO,9/25/2019,9/25/2023,4/14/2022,No,Not Required under E-Government Act,
+1250,BOAP,Government Community Cloud,RGPIA,No,Moderate,Operational,System,Yes,ATO,1/29/2021,1/29/2023,6/2/2023,No,Not Required under E-Government Act,
+1296,BOAP,Bizagi Cloud for US Government,IOPW,Yes,Moderate,Operational,System,Yes,Not Started,,,1/3/2022,Yes - Internal Government Operations,Not Required under E-Government Act,1/3/2022
+1308,BOAP,Exchange Platform,AMMS,No,Moderate,Operational,System,Yes,ATO,1/19/2022,1/19/2022,12/6/2023,Yes,Required under E-Government Act,2/19/2020
+1315,BOAP,RelativityOne Government,ODEP,Yes,Moderate,Operational,System,Yes,ATO,8/24/2021,8/24/2023,7/13/2023,No,Not Required under E-Government Act,
+1316,BOAP,ONE – Security Service Edge (SSE) – CASB/DLP/SWG/ZTNA,PEEF,No,Moderate,Operational,System,Yes,ATO,12/19/2019,11/17/2023,11/19/2023,Yes,Required under E-Government Act,2/19/2020
+1346,BOAP,Momentum® Enterprise Suite - JAB,DMSW,No,Moderate,Operational,System,Yes,ATO,5/12/2008,9/23/2023,1/31/2022,Yes,Required under E-Government Act,5/10/2019
+1378,BOAP,Team-oriented Clear-thinking Utilization Application,TCUA,No,Moderate,Operational,System,Yes,ATO,1/21/2021,1/21/2023,9/24/2022,Yes - Internal Government Operations,Not Required under E-Government Act,
+1376,BORC,Pre-emptive Optimizing Initiative Network,POIN,Yes,Moderate,Operational,System,Yes,ATO,5/20/2021,11/30/2023,12/6/2023,Yes,Required under E-Government Act,
+1390,BORC,Persevering Actuating Open System Back-end,PAOSB,No,Low,Operational,Subsystem,No,Not Applicable,10/23/2003,7/30/2022,6/23/2023,No,Not Required under E-Government Act,
+1391,BORC,Enterprise-wide Maximized Conglomeration Front-end,EMCF,Yes,Moderate,Development,System,Yes,Not Started,,,,No,Not Required under E-Government Act,
+1409,BORC,Universal Multi-tasking Capacity Orchestration,UMCO,No,Moderate,Development,System,Yes,Not Started,,,12/11/2022,No,Not Required under E-Government Act,
+1433,BORC,Persevering Composite Infrastructure Infrastructure,PCII,No,Moderate,Operational,System,Yes,ATO,6/14/2017,4/15/2023,9/23/2022,Yes - Internal Government Operations,Not Required under E-Government Act,
+1451,BORC,Cross-group Uniform Emulation Orchestration,CUEO,Yes,Moderate,Operational,System,Yes,ATO,11/26/2021,11/26/2023,12/21/2022,Yes,Required under E-Government Act,
+1460,BORC,Exclusive Exuding Portal Orchestration,EEPO,Yes,Moderate,Operational,Subsystem,No,Not Applicable,,,9/15/2023,No,Not Required under E-Government Act,
+1463,BORC,Pre-emptive Object-oriented Synergy Pipeline,POSP,No,Low,Operational,Subsystem,No,Not Applicable,,,10/23/2022,Yes - Internal Government Operations,Not Required under E-Government Act,
+1464,BORC,Streamlined Transitional Local Area Network Orchestration,STLANO,No,Moderate,Development,System,Yes,Not Started,,,,Yes,Required under E-Government Act,
+1512,BORC,Streamlined Hybrid Attitude Workgroup,SHAW,Yes,Moderate,Operational,System,Yes,ATO,4/3/2017,7/31/2023,9/15/2023,No,Not Required under E-Government Act,
+1528,BORC,Robust Optimizing Model Application,ROMA,No,Moderate,Operational,System,Yes,ATO,9/28/2015,7/16/2023,1/31/2022,Yes,Required under E-Government Act,4/14/2020
+1791,CCA,Synergistic Multi-state Ability Front-end,SMAF,No,Moderate,Operational,System,Yes,ATO,6/15/2016,4/1/2023,1/31/2022,Yes,Required under E-Government Act,4/14/2020
+1795,CCA,Vision-oriented Asynchronous Workforce Platform,VAWP,No,Moderate,Operational,System,Yes,ATO,8/20/2015,8/5/2023,1/31/2022,Yes,Required under E-Government Act,4/14/2020
+1820,CCA,De-engineered Upward-trending Model Orchestration,DUMO,No,Moderate,Operational,System,Yes,ATO,8/1/2013,2/16/2023,1/31/2022,Yes,Required under E-Government Act,4/14/2020
+1823,CCA,Diverse Next Generation Graphic Interface Workflow,DNGGIW,No,Moderate,Operational,System,Yes,ATO,8/20/2015,8/3/2023,1/31/2022,Yes,Required under E-Government Act,4/14/2020
+1824,CCA,Organic Encompassing Hierarchy Network,OEHN,No,Moderate,Operational,System,Yes,ATO,6/6/2016,2/16/2023,1/31/2022,Yes,Required under E-Government Act,4/14/2020
+1836,CCA,Business-focused Empowering Artificial Intelligence Service,BEAIS,No,Moderate,Operational,System,Yes,ATO,4/7/2016,12/22/2023,1/31/2022,Yes,Required under E-Government Act,4/14/2020
+1837,CCA,Advanced Responsive Orchestration Asset,AROA,No,Moderate,Operational,System,Yes,ATO,6/23/2016,2/10/2023,1/31/2022,Yes,Required under E-Government Act,4/14/2020
+1365,CFRH,Diverse Exuding Leverage Orchestration,DELO,No,Moderate,Operational,System,Yes,ATO,5/26/2016,4/15/2023,1/31/2022,Yes,Required under E-Government Act,4/14/2020
+1366,CFRH,Digitized Asynchronous Core Orchestration,DACO,No,Moderate,Operational,System,Yes,ATO,6/30/2016,5/12/2023,1/31/2022,Yes,Required under E-Government Act,4/14/2020
+1400,CFRH,Centralized Logistical Database Application,CLDA,No,Moderate,Operational,System,Yes,ATO,6/14/2017,8/3/2023,2/10/2023,Yes,Required under E-Government Act,2/19/2020
+1403,CFRH,Front-line Upward-trending Infrastructure Asset,FUIA,No,Moderate,Operational,System,Yes,ATO,3/24/2016,7/31/2023,2/26/2022,Yes,Required under E-Government Act,10/1/2019
+1417,CFRH,Phased Methodical Help-desk Back-end,PMHB,No,Moderate,Operational,System,Yes,ATO,7/21/2011,8/3/2023,1/31/2022,Yes,Required under E-Government Act,4/20/2020
+1465,CFRH,Exclusive 24/7 Info-mediaries Network,E2IN,No,Moderate,Operational,System,Yes,ATO,7/14/2014,8/3/2023,2/26/2022,Yes,Required under E-Government Act,10/1/2019
+1485,CFRH,Fully-configurable Modular Projection Service,FMPS,No,Moderate,Operational,System,Yes,ATO,9/18/2015,8/3/2023,2/18/2022,Yes,Required under E-Government Act,5/14/2020
+1533,CFRH,Multi-channeled Logistical Hierarchy System,MLHS,No,Moderate,Operational,System,Yes,ATO,7/9/2021,7/9/2023,2/26/2022,Yes,Required under E-Government Act,10/1/2019
+1543,CFRH,Balanced Disintermediate Matrices Orchestration,BDMO,No,Moderate,Operational,System,Yes,ATO,1/14/2015,1/12/2023,2/26/2022,Yes,Required under E-Government Act,10/1/2019
+1546,CFRH,Visionary Optimizing Core Front-end,VOCF,No,Moderate,Operational,System,Yes,ATO,5/7/2015,9/26/2023,2/26/2022,Yes,Required under E-Government Act,10/1/2019
+1554,CFRH,Fully-configurable Client-driven Groupware Network,FCGN,No,Moderate,Operational,System,Yes,ATO,7/29/2015,12/27/2023,2/26/2022,Yes,Required under E-Government Act,10/1/2019
+1564,CFRH,Pre-emptive Object-oriented Local Area Network Service,POLANS,No,Moderate,Operational,System,Yes,ATO,7/27/2015,5/21/2023,2/26/2022,Yes,Required under E-Government Act,10/1/2019
+1568,CFRH,Self-enabling Zero Tolerance Encryption Application,SZTEA,No,Moderate,Operational,System,Yes,ATO,6/2/2016,11/26/2023,2/26/2022,Yes,Required under E-Government Act,10/1/2019
+1580,CFRH,Accenture Insights Platform (AIP) For Government,MBKUW,No,Moderate,Operational,System,Yes,ATO,9/26/2013,11/20/2023,2/26/2022,Yes,Required under E-Government Act,10/1/2019
+1589,CFRH,Tango Reserve by AgilQuest (Formerly Forum),NRFN,No,Moderate,Operational,Subsystem,No,Not Applicable,,,9/15/2023,Yes,Required under E-Government Act,1/21/2020
+9662,CFRH,Enhanced Optimizing Moderator Back-end,EOMB,No,Moderate,Development,System,Yes,Not Started,,,12/13/2023,Yes,Required under E-Government Act,
+9666,CFRH,Digitized High-level Pricing Structure Platform,DHPSP,No,Low,Operational,Subsystem,No,Not Applicable,,,9/15/2023,No,Not Required under E-Government Act,
+9677,CFRH,Multi-lateral Eco-centric Intranet Workflow,MEIW,No,Low,Operational,Program,No,Not Started,,,,No,No Selection,
+9684,CFRH,Reduced National Open System Application,RNOSA,No,Moderate,Operational,Subsystem,No,Not Applicable,,,9/15/2023,Yes,Required under E-Government Act,1/21/2020
+9726,CFRH,Focused Intermediate Benchmark System,FIBS,No,Low,Operational,Subsystem,No,Not Applicable,,,12/13/2023,Yes,Required under E-Government Act,1/21/2020
+9745,CFRH,Optional Multi-state Benchmark Service,OMBS,No,Moderate,Operational,System,Yes,ATO,6/14/2016,7/27/2023,1/13/2022,Yes,Required under E-Government Act,3/31/2020
+9751,CFRH,Diverse National Framework Platform,DNFP,No,Low,Operational,Subsystem,No,Not Applicable,,,8/24/2023,No,Not Required under E-Government Act,
+9762,CFRH,Customer-focused Fresh-thinking Attitude Workflow,CFAW,No,Moderate,Operational,System,Yes,ATO,9/14/2012,5/4/2023,4/29/2023,Yes,Required under E-Government Act,5/17/2021
+9764,CFRH,Quality-focused Contextually-based Capacity Platform,QCCP,No,Moderate,Operational,System,Yes,ATO,6/8/2021,6/8/2023,6/14/2023,Yes,Required under E-Government Act,7/16/2021
+9768,CFRH,Grass-roots Analyzing Service-desk Front-end,GASF,No,Moderate,Operational,System,Yes,ATO,8/3/2021,8/3/2023,6/14/2023,Yes,Required under E-Government Act,7/16/2021
+9815,CFRH,Polarized Cohesive Groupware Infrastructure,PCGI,No,Moderate,Operational,System,Yes,ATO,5/24/2021,5/24/2023,6/14/2023,Yes,Required under E-Government Act,7/16/2021
+9846,CFRH,Compatible Modular Neural-net Network,CMNN,No,Moderate,Operational,System,Yes,ATO,12/19/2019,9/3/2023,12/23/2022,Yes,Required under E-Government Act,9/23/2020
+9878,CFRH,Secured Optimizing Open Architecture Platform,SOOAP,No,Moderate,Operational,System,Yes,ATO,3/22/2021,3/22/2023,3/26/2023,Yes,Required under E-Government Act,3/26/2021
+9909,CFRH,Implemented Homogeneous Alliance Network,IHAN,No,Moderate,Operational,System,Yes,ATO,4/28/2014,1/4/2023,3/13/2022,No,Not Required under E-Government Act,
+9931,CFRH,Distributed Regional Benchmark Front-end,DRBF,No,Moderate,Development,System,Yes,Not Started,,,,No,Not Required under E-Government Act,
+9953,CFRH,Configurable Background Application Infrastructure,CBAI,No,Moderate,Operational,System,Yes,ATO,6/17/2021,6/17/2023,,No,Not Required under E-Government Act,
+9984,CFRH,Customizable Exuding Collaboration Back-end,CECB,No,Moderate,Operational,System,Yes,ATO,5/11/2021,5/11/2023,,No,Not Required under E-Government Act,
+4429,CFSP,Quality-focused Tertiary Utilization Workgroup,QTUW,No,Moderate,Operational,System,Yes,ATO,6/16/2014,12/22/2023,1/5/2022,Yes,Required under E-Government Act,12/28/2021
+4451,CFSP,Grass-roots Secondary Installation Orchestration,GSIO,No,Moderate,Modification,System,Yes,Expired,8/9/2016,10/18/2023,1/31/2022,Yes,Required under E-Government Act,4/14/2020
+4457,CFSP,Optimized Multimedia Frame Orchestration,OMFO,No,Moderate,Operational,System,Yes,ATO,4/7/2016,12/22/2023,1/31/2022,Yes,Required under E-Government Act,4/14/2020
+4465,CFSP,Devolved Web-enabled Firmware Back-end,DWFB,No,Moderate,Operational,System,Yes,ATO,8/14/2014,10/13/2023,2/27/2022,Yes,Required under E-Government Act,3/18/2020
+4500,CFSP,Pre-emptive Regional Workforce Back-end,PRWB,Yes,Moderate,Operational,System,Yes,ATO,2/2/2021,8/18/2023,9/30/2022,No,Not Required under E-Government Act,
+4514,CFSP,Progressive Impactful Attitude Workgroup,PIAW,No,Moderate,Operational,System,Yes,ATO,2/2/2021,8/18/2023,9/30/2022,No,Not Required under E-Government Act,
+4533,CFSP,Enterprise-wide Didactic System Engine System,EDSES,No,Moderate,Operational,System,Yes,ATO,7/13/2011,10/18/2023,5/20/2023,Yes,Required under E-Government Act,9/14/2018
+4537,CFSP,Up-sized Motivating Functionalities Workflow,UMFW,No,Moderate,Operational,System,Yes,ATO,5/18/2016,7/27/2023,2/25/2022,Yes,Required under E-Government Act,5/17/2016
+6461,DOAO,Reactive Analyzing Analyzer Platform,RAAP,No,Moderate,Operational,System,Yes,ATO,9/8/2011,5/9/2023,2/27/2022,Yes,Required under E-Government Act,3/30/2020
+2154,DOCE,Cross-group Explicit Definition Workflow,CEDW,No,Moderate,Operational,System,Yes,ATO,5/16/2011,3/22/2023,4/29/2023,Yes,Required under E-Government Act,11/8/2018
+2160,DOCE,Expanded Bifurcated Intranet Network,EBIN,No,Low,Operational,System,Yes,ATO,8/27/2020,8/17/2023,8/9/2023,Yes,Required under E-Government Act,10/22/2021
+2169,DOCE,Reactive Demand-driven Software Back-end,RDSB,No,Low,Operational,Subsystem,No,ATO,,11/2/2023,3/5/2022,No,Not Required under E-Government Act,
+2194,DOCE,Total Empowering Projection Infrastructure,TEPI,No,Moderate,Operational,System,Yes,Not Started,,,,No,Not Required under E-Government Act,
+2202,DOCE,Streamlined Impactful Analyzer Service,SIAS,No,Moderate,Operational,System,Yes,ATO,5/17/2016,2/10/2023,5/11/2023,No,Not Required under E-Government Act,
+3003,DOSR,Programmable Didactic System Engine System,PDSES,No,Moderate,Operational,System,Yes,ATO,11/21/2017,11/18/2023,11/17/2023,Yes,Required under E-Government Act,11/18/2021
+3021,DOSR,Synchronized Regional Application Front-end,SRAF,No,Low,Operational,Program,No,Not Started,,,,No,No Selection,
+3025,DOSR,Reduced Disintermediate Intranet Infrastructure,RDII,No,Low,Operational,System,Yes,ATO,9/11/2015,3/22/2023,3/24/2022,No,Not Required under E-Government Act,
+3045,DOSR,Upgradable Zero Administration Function Back-end,UZAFB,No,Moderate,Operational,System,Yes,ATO,10/8/2015,5/13/2023,4/15/2023,Yes,Required under E-Government Act,6/13/2019
+3096,DOSR,Monitored Tertiary Groupware Application,MTGA,Yes,Moderate,Operational,System,Yes,ATO,1/27/2016,1/13/2022,3/24/2022,Yes,Required under E-Government Act,9/16/2021
+3139,DOSR,Digitized Regional Neural-net Workgroup,DRNW,No,Low,Operational,Program,No,Not Started,,,,No,Not Required under E-Government Act,
+3161,DOSR,Enterprise-wide Global Neural-net Network,EGNN,Yes,Low,Operational,System,Yes,Not Started,,,,No,Not Required under E-Government Act,
+3174,DOSR,Total Web-enabled Policy Service,TWPS,No,Moderate,Operational,System,No,ATO,6/15/2015,6/14/2023,,No,No Selection,
+3178,DOSR,De-engineered Real-time Hardware System,DRHS,No,Moderate,Operational,System,Yes,Not Started,,,,No,Not Required under E-Government Act,
+3198,DOSR,Re-contextualized Client-server Implementation Infrastructure,RCII,No,Moderate,Operational,System,Yes,ATO,10/7/2021,10/7/2023,9/28/2023,No,Not Required under E-Government Act,
+3199,DOSR,Multi-channeled Client-server Support Infrastructure,MCSI,No,Moderate,Operational,System,Yes,ATO,12/18/2017,12/14/2023,12/17/2022,No,Not Required under E-Government Act,
+3205,DOSR,Self-enabling Local Hub System,SLHS,No,Moderate,Operational,System,Yes,ATO,12/18/2017,12/15/2023,12/17/2022,No,Not Required under E-Government Act,
+3233,DOSR,Down-sized Dedicated Synergy Infrastructure,DDSI,No,Moderate,Operational,System,Yes,ATO,8/3/2017,3/3/2023,2/27/2023,No,Not Required under E-Government Act,
+3244,DOSR,Enhanced Intangible Secured Line Orchestration,EISLO,No,Moderate,Operational,System,Yes,ATO,7/3/2019,7/3/2023,,No,Not Required under E-Government Act,
+3259,DOSR,Front-line Content-based Algorithm Network,FCAN,No,Moderate,Development,System,Yes,Not Started,,,,Yes - Internal Government Operations,Not Required under E-Government Act,
+3294,DOSR,Integrated Uniform Internet Solution Platform,IUISP,No,Moderate,Operational,System,Yes,ATO,9/25/2018,10/27/2023,12/14/2023,No,Not Required under E-Government Act,
+3310,DOSR,Operative Static Encoding System,OSES,No,Moderate,Operational,System,Yes,Not Started,,,,No,Not Required under E-Government Act,
+3334,DOSR,Automated 24hour Application Front-end,A2AF,No,Moderate,Operational,System,Yes,ATO,2/15/2018,2/12/2023,4/17/2023,No,Not Required under E-Government Act,
+3356,DOSR,Vision-oriented Dedicated Ability Infrastructure,VDAI,No,Moderate,Operational,System,Yes,ATO,6/2/2021,6/2/2023,4/13/2023,No,Not Required under E-Government Act,
+3357,DOSR,Multi-tiered Motivating Migration Service,MMMS,No,Moderate,Operational,System,Yes,ATO,8/27/2021,8/27/2023,8/10/2023,No,Not Required under E-Government Act,
+3368,DOSR,Innovative Next Generation Process Improvement Workflow,INGPIW,No,Moderate,Operational,System,Yes,ATO,10/12/2018,1/12/2022,11/22/2023,No,Not Required under E-Government Act,
+3392,DOSR,Ergonomic Executive Software Pipeline,EESP,No,Moderate,Operational,System,Yes,ATO,6/26/2018,6/25/2023,6/14/2023,No,Not Required under E-Government Act,
+3401,DOSR,Function-based Bi-directional Access Back-end,FBAB,No,Moderate,Operational,System,Yes,ATO,1/11/2019,1/11/2022,7/12/2023,No,Not Required under E-Government Act,
+3416,DOSR,Face-to-face Tertiary Customer Loyalty Platform,FTCLP,No,Moderate,Operational,System,Yes,ATO,5/20/2020,5/20/2023,,No,Not Required under E-Government Act,
+3489,DOSR,Quality-focused Contextually-based Database Application,QCDA,Yes,Moderate,Operational,System,Yes,ATO,8/30/2019,8/30/2023,,No,Not Required under E-Government Act,
+3495,DOSR,Optimized Analyzing Circuit Workflow,OACW,No,Moderate,Operational,System,Yes,ATO,8/4/2020,10/27/2023,11/4/2022,Yes,Not Required under E-Government Act,
+3497,DOSR,Stand-alone 24/7 Installation Network,S2IN,Yes,Moderate,Operational,System,Yes,ATO,6/9/2021,6/9/2023,,No,Not Required under E-Government Act,
+7295,IOPS,Pre-emptive Logistical Task-force Network,PLTN,Yes,Moderate,Operational,System,Yes,ATO,5/26/2020,3/24/2023,11/17/2022,No,Not Required under E-Government Act,
+7302,IOPS,Team-oriented Transitional Throughput System,TTTS,No,Moderate,Operational,System,Yes,ATO,12/7/2021,12/7/2023,9/16/2023,No,Not Required under E-Government Act,
+7308,IOPS,Cloned Value-added Attitude Pipeline,CVAP,No,Low,Operational,Program,No,Not Started,,,,No,No Selection,
+7340,IOPS,Digitized Disintermediate Policy Back-end,DDPB,No,Low,Operational,System,Yes,ATO,4/3/2014,2/18/2023,2/1/2023,Yes - Internal Government Operations,Not Required under E-Government Act,2/1/2022
+7369,IOPS,Business-focused Client-driven Infrastructure Network,BCIN,No,Low,Operational,System,Yes,ATO,2/6/2015,2/18/2023,3/23/2023,No,Not Required under E-Government Act,3/23/2021
+7372,IOPS,Profit-focused Dedicated Circuit Workgroup,PDCW,No,Moderate,Operational,System,Yes,ATO,6/24/2020,6/24/2023,5/7/2022,Yes,Required under E-Government Act,6/16/2020
+7391,IOPS,Business-focused Secondary Framework Workgroup,BSFW,Yes,Moderate,Operational,Subsystem,No,ATO,11/26/2019,5/26/2023,10/26/2023,No,Not Required under E-Government Act,
+7393,IOPS,Customer-focused Static Circuit Back-end,CSCB,No,Moderate,Operational,System,Yes,ATO,10/10/2018,5/26/2023,11/30/2023,No,Not Required under E-Government Act,
+7408,IOPS,User-friendly Even-keeled Collaboration Back-end,UECB,Yes,Moderate,Operational,Subsystem,No,ATO,11/26/2019,5/26/2023,12/2/2023,No,Not Required under E-Government Act,
+7447,IOPS,Secured Interactive Archive Workflow,SIAW,No,Moderate,Operational,System,No,ATO,12/9/2019,9/24/2023,,No,Not Required under E-Government Act,
+7454,IOPS,Team-oriented Client-driven Access Workgroup,TCAW,No,Moderate,Development,System,Yes,Not Started,,,12/13/2023,Yes - Internal Government Operations,Required under E-Government Act,12/21/2021
+7455,IOPS,Configurable 4thgeneration Open System Network,C4OSN,No,Moderate,Operational,System,Yes,ATO,11/2/2021,11/2/2023,10/8/2023,No,Not Required under E-Government Act,
+4169,MOAA,Secured Next Generation Process Improvement Asset,SNGPIA,Yes,Moderate,Operational,System,No,ATO,4/11/2018,11/17/2023,1/5/2022,No,Not Required under E-Government Act,1/31/2018
+4201,MOAA,Grass-roots Multimedia Interface System,GMIS,No,Low,Operational,Program,No,Not Started,,,,No,No Selection,
+4211,MOAA,Multi-channeled Even-keeled Analyzer Pipeline,MEAP,No,Low,Operational,System,Yes,ATO,7/16/2014,11/12/2023,8/13/2023,Yes - Internal Government Operations,Not Required under E-Government Act,11/18/2021
+4220,MOAA,Re-contextualized Next Generation Functionalities Workgroup,RNGFW,No,Moderate,Operational,System,Yes,ATO,12/8/2016,11/7/2023,10/17/2023,Yes,Required under E-Government Act,5/22/2019
+4245,MOAA,Compatible Even-keeled Info-mediaries Pipeline,CEIP,Yes,Low,Operational,System,Yes,ATO,2/23/2016,3/21/2024,1/19/2022,Yes,Required under E-Government Act,
+4246,MOAA,Multi-layered Needs-based Hardware Workgroup,MNHW,No,Moderate,Operational,System,Yes,ATO,12/18/2020,12/15/2023,12/16/2022,No,Not Required under E-Government Act,
+4267,MOAA,Switchable Incremental Forecast Orchestration,SIFO,No,Moderate,Operational,System,Yes,Not Started,,,,No,Not Required under E-Government Act,
+4270,MOAA,Diverse Web-enabled Product Workflow,DWPW,No,Moderate,Operational,System,Yes,Not Started,,,7/12/2023,Yes,Required under E-Government Act,
+4289,MOAA,Monitored Object-oriented Help-desk Asset,MOHA,No,Low,Operational,Program,No,Not Started,,,,No,No Selection,
+4304,MOAA,Multi-tiered Interactive Collaboration Back-end,MICB,No,Low,Operational,System,Yes,Not Started,,,,No,Not Required under E-Government Act,
+4311,MOAA,Reverse-engineered Dynamic Open Architecture Service,RDOAS,No,Moderate,Operational,System,Yes,ATO,4/25/2016,8/9/2023,6/30/2023,Yes,Required under E-Government Act,3/18/2020
+4333,MOAA,Enhanced 24hour Extranet Platform,E2EP,No,Moderate,Operational,System,Yes,ATO,7/12/2016,8/9/2023,6/14/2023,No,Not Required under E-Government Act,
+4339,MOAA,Exclusive Methodical Synergy Front-end,EMSF,No,Low,Operational,System,Yes,ATO,12/12/2019,12/21/2023,12/14/2023,No,Not Required under E-Government Act,
+4374,MOAA,Pre-emptive Leadingedge Orchestration Front-end,PLOF,No,Low,Operational,Program,No,Not Started,,,,No,No Selection,
+4378,MOAA,Multi-lateral Composite Process Improvement Workgroup,MCPIW,No,Low,Operational,System,Yes,ATO,1/17/2020,1/13/2022,1/12/2023,No,Not Required under E-Government Act,
+4386,MOAA,Profound Stable Protocol Back-end,PSPB,No,Low,Operational,System,Yes,ATO,2/2/2016,9/21/2023,5/5/2023,No,Not Required under E-Government Act,6/16/2021
+4399,MOAA,Horizontal Non-volatile Capacity Pipeline,HNCP,No,Low,Operational,System,Yes,ATO,1/12/2016,3/3/2023,2/25/2023,Yes,Required under E-Government Act,3/2/2021
+4415,MOAA,Multi-layered National Monitoring Infrastructure,MNMI,No,Low,Operational,Subsystem,No,ATO,8/30/2012,8/10/2023,8/8/2023,No,Not Required under E-Government Act,
+4466,MOAA,Open-architected Fresh-thinking Monitoring Pipeline,OFMP,No,Low,Operational,Program,No,Not Started,,,,No,No Selection,
+4483,MOAA,Assimilated 4thgeneration Budgetary Management Service,A4BMS,Yes,Low,Operational,System,Yes,ATO,8/10/2016,8/12/2023,7/29/2023,No,Not Required under E-Government Act,
+4486,MOAA,Persistent Content-based Functionalities Platform,PCFP,No,Low,Operational,System,Yes,ATO,1/15/2020,7/16/2023,8/12/2023,Yes,Required under E-Government Act,1/15/2020
+4506,MOAA,Adaptive Client-server Parallelism Pipeline,ACPP,No,Low,Operational,System,Yes,ATO,2/12/2016,1/20/2022,4/2/2023,Yes,Required under E-Government Act,3/12/2021
+4517,MOAA,Persistent Bandwidth-monitored Toolset Service,PBTS,No,Low,Operational,Program,No,Not Started,,,,No,Not Required under E-Government Act,
+4527,MOAA,Front-line Motivating Archive Service,FMAS,No,Low,Operational,System,Yes,ATO,6/9/2016,6/11/2023,10/31/2023,No,Not Required under E-Government Act,
+4554,MOAA,Exclusive Bandwidth-monitored Neural-net System,EBNS,No,Low,Implementation,System,Yes,Not Started,,,10/17/2023,No,Not Required under E-Government Act,
+4569,MOAA,Extended Content-based Projection System,ECPS,No,Moderate,Operational,System,Yes,ATO,4/1/2020,4/2/2023,3/25/2023,No,Not Required under E-Government Act,
+4610,MOAA,Monitored Incremental Analyzer Service,MIAS,No,Moderate,Operational,System,Yes,ATO,8/10/2020,8/10/2023,2/27/2022,No,Not Required under E-Government Act,
+4624,MOAA,Synergized Didactic Service-desk Network,SDSN,Yes,Moderate,Operational,System,Yes,ATO,7/11/2019,7/11/2023,,No,Not Required under E-Government Act,
+4626,MOAA,Reduced Client-server Software Network,RCSN,No,Low,Operational,System,Yes,ATO,8/27/2019,8/27/2023,8/9/2023,No,Not Required under E-Government Act,
+4647,MOAA,Persevering Multimedia Infrastructure Infrastructure,PMII,Yes,Low,Operational,System,No,ATO,11/1/2018,2/1/2022,,No,Not Required under E-Government Act,
+4649,MOAA,Configurable Bifurcated Challenge Platform,CBCP,No,Moderate,Operational,System,Yes,ATO,10/1/2019,9/20/2023,10/1/2022,Yes,Required under E-Government Act,10/1/2020
+4654,MOAA,Visionary Grid-enabled Knowledge User Application,VGKUA,No,Low,Operational,System,Yes,ATO,8/28/2015,8/16/2023,2/18/2022,Yes,Required under E-Government Act,4/21/2021
+4659,MOAA,Configurable Cohesive Info-mediaries Back-end,CCIB,No,Low,Operational,System,Yes,ATO,5/13/2021,2/1/2022,2/2/2023,Yes,Required under E-Government Act,5/21/2021
+4709,MOAA,Centralized Zero Administration Support Infrastructure,CZASI,No,Low,Operational,Subsystem,No,ATO,2/3/2016,4/2/2023,3/30/2023,Yes,Required under E-Government Act,4/1/2021
+4725,MOAA,Vision-oriented Methodical Alliance Application,VMAA,No,Low,Operational,Subsystem,No,ATO,5/11/2016,8/10/2023,1/28/2022,No,Not Required under E-Government Act,
+4729,MOAA,De-engineered Bifurcated Hierarchy Infrastructure,DBHI,No,Low,Operational,System,Yes,ATO,8/4/2017,3/11/2023,4/13/2023,Yes,Required under E-Government Act,3/11/2021
+4754,MOAA,Visionary Disintermediate Workforce Pipeline,VDWP,No,Low,Operational,System,Yes,ATO,6/1/2017,8/10/2023,5/7/2023,Yes,Required under E-Government Act,5/19/2021
+4811,MOAA,Ergonomic Static Hardware Application,ESHA,No,Low,Operational,Program,No,Not Started,,,,No,No Selection,
+4813,MOAA,Visionary Asymmetric Hardware Workflow,VAHW,No,Low,Operational,Subsystem,No,ATO,2/2/2017,4/2/2023,4/2/2023,No,Not Required under E-Government Act,
+4815,MOAA,Robust Optimizing Installation Network,ROIN,No,Low,Operational,Subsystem,No,ATO,8/17/2016,4/2/2023,3/25/2023,Yes,Required under E-Government Act,4/8/2021
+4844,MOAA,Balanced Actuating Internet Solution System,BAISS,No,Low,Operational,System,Yes,ATO,3/30/2016,4/22/2023,1/31/2022,No,Not Required under E-Government Act,
+4850,MOAA,Phased Fresh-thinking Functionalities Pipeline,PFFP,No,Low,Modification,System,Yes,Expired,2/2/2017,1/29/2024,11/19/2023,No,Not Required under E-Government Act,
+4872,MOAA,Function-based Heuristic Throughput Asset,FHTA,No,Low,Operational,System,Yes,ATO,2/18/2020,2/18/2023,2/18/2023,Yes,Required under E-Government Act,2/18/2021
+4876,MOAA,Customizable Content-based Parallelism System,CCPS,No,Low,Operational,System,Yes,ATO,3/11/2020,2/19/2023,8/30/2023,No,Not Required under E-Government Act,
+4888,MOAA,Intuitive Transitional Time-frame System,ITTS,No,Low,Operational,Subsystem,No,ATO,2/26/2016,4/2/2023,4/2/2023,Yes,Required under E-Government Act,4/1/2021
+4914,MOAA,Object-based Holistic Superstructure Workflow,OHSW,No,Low,Operational,System,Yes,ATO,8/17/2021,8/17/2023,9/9/2023,No,Not Required under E-Government Act,
+4919,MOAA,Right-sized Composite Emulation Asset,RCEA,No,Low,Operational,System,Yes,ATO,3/10/2015,7/14/2023,3/1/2023,No,Not Required under E-Government Act,
+4933,MOAA,Assimilated 4thgeneration Success Workgroup,A4SW,No,Low,Operational,System,Yes,Not Started,,,,No,Not Required under E-Government Act,
+4963,MOAA,Realigned Mobile Matrices Asset,RMMA,No,Moderate,Operational,System,Yes,ATO,10/4/2021,10/4/2023,8/9/2023,Yes - Internal Government Operations,Not Required under E-Government Act,
+4981,MOAA,Organized Solution-oriented Extranet Back-end,OSEB,No,Moderate,Operational,System,Yes,ATO,8/5/2019,8/5/2023,4/13/2023,No,Not Required under E-Government Act,
+4994,MOAA,Cloned Client-server Initiative Application,CCIA,Yes,Moderate,Operational,System,Yes,ATO,3/3/2021,3/3/2023,12/18/2022,No,Not Required under E-Government Act,
+5003,MOAA,Ergonomic Object-oriented Functionalities Back-end,EOFB,No,Low,Operational,System,No,ATO,8/28/2019,8/28/2023,,No,Not Required under E-Government Act,12/12/2008
+5005,MOAA,Devolved Background Knowledge User System,DBKUS,Yes,Low,Operational,System,No,ATO,10/9/2020,3/24/2023,,Yes,Required under E-Government Act,
+5013,MOAA,Inverse Asynchronous Installation Application,IAIA,No,Low,Operational,System,Yes,ATO,5/4/2015,4/19/2023,1/9/2022,No,Not Required under E-Government Act,
+5015,MOAA,Extended Intangible Algorithm Network,EIAN,No,Low,Operational,System,Yes,ATO,3/30/2021,9/30/2023,2/24/2023,No,Not Required under E-Government Act,
+5020,MOAA,Implemented Local Solution Service,ILSS,Yes,Moderate,Operational,System,Yes,ATO,5/19/2016,1/18/2022,1/4/2022,Yes,Required under E-Government Act,5/11/2020
+5057,MOAA,Programmable Eco-centric Task-force Infrastructure,PETI,Yes,Moderate,Operational,System,Yes,ATO,6/27/2014,2/17/2023,12/15/2023,Yes,Required under E-Government Act,12/11/2019
+5063,MOAA,Managed 5thgeneration Utilization Front-end,M5UF,No,Moderate,Operational,System,Yes,ATO,6/4/2021,11/30/2023,1/13/2023,Yes,Required under E-Government Act,5/10/2021
+5069,MOAA,Adaptive 6thgeneration Encoding Platform,A6EP,No,Low,Operational,System,No,ATO,7/8/2019,7/8/2023,,Yes,Required under E-Government Act,
+5076,MOAA,Team-oriented Composite Graphic Interface Workflow,TCGIW,No,Low,Operational,System,No,Not Applicable,,,1/24/2022,Yes - Internal Government Operations,Required under E-Government Act,1/24/2020
+5087,MOAA,Front-line Mobile Support Workgroup,FMSW,No,Low,Operational,System,Yes,Not Started,,,,Yes - Internal Government Operations,Not Required under E-Government Act,
+5096,MOAA,Profit-focused Foreground Model Network,PFMN,No,Moderate,Operational,System,No,ATO,9/16/2013,9/5/2023,,Yes,No Selection,
+5099,MOAA,Enterprise-wide Systemic Methodology Workflow,ESMW,No,Low,Operational,System,Yes,ATO,2/6/2015,2/3/2023,1/5/2022,No,Not Required under E-Government Act,
+5116,MOAA,Cloned Asynchronous Process Improvement Workgroup,CAPIW,No,Moderate,Development,System,Yes,Not Started,,,12/8/2023,Yes - Internal Government Operations,Not Required under E-Government Act,
+5122,MOAA,Quality-focused Eco-centric Data-warehouse Front-end,QEDF,No,Low,Operational,System,Yes,ATO,8/7/2017,8/11/2023,5/17/2023,Yes,Required under E-Government Act,9/13/2021
+5142,MOAA,Switchable Coherent Parallelism Application,SCPA,No,Low,Operational,Program,No,Not Started,,,,No,Not Required under E-Government Act,
+5149,MOAA,Object-based Intangible Solution Service,OISS,No,Low,Operational,System,No,ATO,11/1/2018,11/1/2023,,Yes,Required under E-Government Act,
+5153,MOAA,Stand-alone Exuding Synergy Network,SESN,No,Low,Operational,System,Yes,ATO,1/16/2020,1/21/2022,5/7/2023,Yes,Required under E-Government Act,5/13/2021
+5164,MOAA,Object-based Cohesive Success Orchestration,OCSO,No,Low,Operational,System,No,ATO,4/29/2019,4/29/2023,,No,Not Required under E-Government Act,
+5172,MOAA,Down-sized Bandwidth-monitored Analyzer Service,DBAS,No,Low,Operational,System,Yes,ATO,6/29/2020,6/25/2023,5/25/2023,No,Not Required under E-Government Act,
+5189,MOAA,Vision-oriented Foreground Groupware Application,VFGA,No,Low,Operational,System,Yes,ATO,2/27/2015,2/3/2023,2/18/2022,No,Not Required under E-Government Act,
+5190,MOAA,Robust 6thgeneration Neural-net Service,R6NS,No,Low,Operational,System,No,ATO,7/9/2020,7/9/2023,,No,Not Required under E-Government Act,
+5194,MOAA,Distributed Systematic Knowledge User Infrastructure,DSKUI,No,Moderate,Operational,System,No,ATO,6/27/2017,6/24/2023,,Yes,Required under E-Government Act,
+5208,MOAA,Self-enabling Upward-trending Model Back-end,SUMB,No,Moderate,Operational,System,No,ATO,10/16/2017,10/21/2023,,Yes,Required under E-Government Act,7/8/2020
+5217,MOAA,Digitized Radical Moratorium Front-end,DRMF,No,Moderate,Development,System,Yes,Not Started,,,,No,Not Required under E-Government Act,
+5220,MOAA,Progressive Methodical Hardware Platform,PMHP,No,Moderate,Development,System,Yes,Not Started,,,,Yes,Required under E-Government Act,
+5225,MOAA,Pre-emptive Real-time Circuit System,PRCS,No,Low,Operational,System,No,Expired,,,,No,Not Required under E-Government Act,
+5236,MOAA,Persistent Incremental Circuit Workgroup,PICW,No,Low,Operational,System,No,Not Started,,,,No,Not Required under E-Government Act,
+5246,MOAA,Organic Optimizing Customer Loyalty Service,OOCLS,No,Moderate,Operational,System,Yes,ATO,3/15/2016,3/12/2024,3/24/2022,Yes,Required under E-Government Act,12/2/2020
+5247,MOAA,Face-to-face Intermediate Hub Infrastructure,FIHI,No,Moderate,Operational,System,Yes,ATO,3/15/2016,3/12/2024,11/9/2022,Yes - Internal Government Operations,Required under E-Government Act,11/15/2021
+5251,MOAA,Implemented Clear-thinking Leverage Infrastructure,ICLI,No,Moderate,Operational,System,Yes,ATO,1/13/2016,8/20/2023,3/31/2022,Yes,Required under E-Government Act,5/12/2020
+5262,MOAA,Visionary 3rdgeneration Archive Pipeline,V3AP,Yes,Moderate,Operational,System,Yes,ATO,11/24/2021,11/24/2023,11/9/2023,Yes,Required under E-Government Act,11/23/2021
+5277,MOAA,Reduced Multi-tasking Focus Group Front-end,RMFGF,No,Low,Operational,System,Yes,ATO,12/15/2017,2/5/2023,2/1/2023,Yes,Required under E-Government Act,2/5/2021
+5306,MOAA,Implemented Global Pricing Structure Platform,IGPSP,No,Moderate,Operational,System,Yes,ATO,8/20/2014,2/2/2022,2/1/2023,Yes,Required under E-Government Act,2/25/2024
+5316,MOAA,Vision-oriented Secondary Policy Workflow,VSPW,No,Low,Operational,System,Yes,ATO,12/19/2017,2/1/2022,2/1/2023,Yes,Required under E-Government Act,2/2/2021
+5320,MOAA,Profound Multi-state Frame Service,PMFS,No,Moderate,Operational,System,Yes,ATO,4/15/2014,11/3/2023,10/6/2022,Yes,Required under E-Government Act,8/31/2020
+5323,MOAA,Automated Encompassing Concept Infrastructure,AECI,No,Low,Operational,Program,No,Not Started,,,,No,No Selection,
+5328,MOAA,Ameliorated Actuating Access Front-end,AAAF,No,Low,Operational,System,Yes,ATO,12/29/2017,12/28/2023,6/15/2023,No,Not Required under E-Government Act,12/29/2020
+5381,MOAA,Reverse-engineered Bifurcated Intranet Back-end,RBIB,No,Moderate,Operational,System,Yes,ATO,12/1/2017,11/12/2023,10/21/2023,Yes,Required under E-Government Act,10/21/2019
+1191,OODM,Decentralized 5thgeneration Database Platform,D5DP,No,Low,Operational,System,Yes,ATO,12/21/2017,12/13/2023,4/29/2022,Yes,Required under E-Government Act,1/5/2022
+1197,OODM,Right-sized Intermediate Access Workgroup,RIAW,No,Low,Operational,System,Yes,ATO,5/13/2014,2/3/2023,1/25/2022,No,Not Required under E-Government Act,
+1224,OODM,Future-proofed Attitude-oriented Access System,FAAS,No,Low,Operational,System,No,ATO,7/26/2016,7/3/2023,12/20/2023,No,Not Required under E-Government Act,
+1262,OODM,IBM Cloud for Government,MDEA,No,Moderate,Operational,System,Yes,ATO,11/18/2020,2/2/2022,10/23/2022,Yes,Required under E-Government Act,1/6/2021
+9910,OOLP,Switchable High-level Parallelism Service,SHPS,No,Low,Operational,System,Yes,ATO,9/16/2019,3/30/2023,5/18/2023,No,Not Required under E-Government Act,
+1729,RAB,Business-focused National Complexity Orchestration,BNCO,No,Low,Operational,System,No,ATO,3/27/2018,9/3/2023,,No,Not Required under E-Government Act,
+1731,RAB,Function-based Systemic Utilization Pipeline,FSUP,No,Low,Development,System,Yes,Not Started,,,8/16/2023,No,Not Required under E-Government Act,
+1761,RAB,Diverse Zero Tolerance Protocol Workflow,DZTPW,No,Low,Operational,Program,No,Not Started,,,,No,No Selection,
+1763,RAB,Expanded Intermediate Capacity Infrastructure,EICI,No,Low,Development,Subsystem,No,Not Started,,,,No,Not Required under E-Government Act,
+1766,RAB,Switchable Dynamic Initiative Service,SDIS,No,Low,Development,Subsystem,No,Not Started,,,,No,Not Required under E-Government Act,
+1784,RAB,Down-sized Zero Tolerance Product System,DZTPS,No,Moderate,Operational,System,Yes,ATO,7/6/2016,2/7/2023,1/6/2022,Yes,Not Required under E-Government Act,2/6/2020
+1792,RAB,Streamlined Context-sensitive Focus Group Asset,SCFGA,No,Low,Development,System,Yes,Not Started,,,,Yes,Required under E-Government Act,
+2175,RSI,Multi-tiered Eco-centric Secured Line Back-end,MESLB,No,Moderate,Operational,System,Yes,ATO,7/3/2018,7/2/2023,6/29/2023,Yes,Required under E-Government Act,10/29/2021
+2177,RSI,User-friendly Value-added Capacity Front-end,UVCF,No,Moderate,Operational,System,Yes,ATO,10/29/2018,10/29/2023,6/15/2023,Yes,Required under E-Government Act,10/29/2021
+2184,RSI,Multi-lateral Background Data-warehouse Workgroup,MBDW,No,Low,Operational,Program,No,Not Started,,,,No,No Selection,
+2188,RSI,Visionary 3rdgeneration Graphic Interface Service,V3GIS,No,Moderate,Operational,System,Yes,ATO,5/19/2020,5/19/2023,5/14/2023,No,Not Required under E-Government Act,
+2263,RSI,Synergized Actuating Encoding Application,SAEA,No,Low,Operational,Subsystem,No,ATO,2/23/2016,8/10/2023,3/31/2022,Yes,Required under E-Government Act,2/19/2021
+2270,RSI,Triple-buffered Systematic Emulation Service,TSES,No,Low,Operational,System,Yes,ATO,5/22/2015,6/19/2023,7/13/2023,Yes,Required under E-Government Act,1/6/2021
+2277,RSI,Multi-channeled Context-sensitive Circuit Back-end,MCCB,No,Moderate,Operational,System,Yes,ATO,11/10/2016,5/28/2023,5/17/2023,Yes,Required under E-Government Act,5/29/2021
+2289,RSI,Compatible Interactive Orchestration Network,CION,No,Low,Operational,Program,No,Not Started,,,,No,No Selection,
+2306,RSI,Vision-oriented Hybrid Frame Back-end,VHFB,No,Moderate,Operational,System,Yes,ATO,2/6/2015,2/2/2022,1/25/2022,Yes,Not Required under E-Government Act,5/11/2020
