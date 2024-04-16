@@ -28,8 +28,8 @@ There are two sample data files - one representing asset inventory and the other
    		b. Power Query data transformations must be incorporated and be explainable.
      		c. Report must have a clean asthetically pleasing appearance, telling a concise, consumable story to the end user.
        		d. Data model must adhere to best practices and be explainable.
-	 	c. Visualizations must accurately display underlying data with no errors.
-   		e. Demo must display a thorough understanding of the underlying data and tell a cohesive data story.
+	 	e. Visualizations must accurately display underlying data with no errors.
+   		f. Demo must display a thorough understanding of the underlying data and tell a cohesive data story.
 
    
 
