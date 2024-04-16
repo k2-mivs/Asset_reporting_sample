@@ -12,6 +12,7 @@ There are two sample data files - one representing asset inventory and the other
 		c. How many private ip addresses are in use in the enterprise?
 		d. Provide the count of assets by Vendor, by Operating System 
 		e. What is quantity of assets defined as GFE? (GFE is defined as any asset with a Windows 10 OS and a private IP address)
+  		d. How many Operational systems have either expired or not completed an authority to operate? How many by Org?
   
 	3. Requirements
 		a. Produce 2 pages in Power BI. 
